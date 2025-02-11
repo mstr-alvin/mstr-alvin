@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/yourprofile" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/yourprofile" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/yourid/yourname" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/yourprofile" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/yourprofile" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/yourprofile" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/yourid/yourname" title="Stack Overflow Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/yourprofile" title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -34,17 +34,17 @@
 <h2 align="center">🔥 Languages & Technologies 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-  <code><img title=".NET Framework" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Godot Engine" height="25" src="images/godot.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="Bootstrap" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img title=".NET Framework" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
+  <code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+  <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="Godot Engine" height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 </p>
 <hr>
 
